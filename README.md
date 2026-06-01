@@ -9,11 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://nubiraweb.com/"><strong>🌐 Nubira Web</strong></a>
-  ·
-  <a href="https://nubiraweb.com/configurar-proyecto.php"><strong>🚀 Iniciar proyecto</strong></a>
-  ·
-  <a href="mailto:contacto@nubiraweb.com"><strong>📩 Contacto</strong></a>
+  <a href="https://nubiraweb.com/">
+    <img src="https://img.shields.io/badge/Nubira%20Web-6366F1?style=for-the-badge" alt="Nubira Web">
+  </a>
+  <a href="https://nubiraweb.com/configurar-proyecto.php">
+    <img src="https://img.shields.io/badge/Iniciar%20proyecto-22C55E?style=for-the-badge" alt="Iniciar proyecto">
+  </a>
+  <a href="mailto:contacto@nubiraweb.com">
+    <img src="https://img.shields.io/badge/Contacto-0EA5E9?style=for-the-badge" alt="Contacto">
+  </a>
 </p>
 
 ---
@@ -32,11 +36,11 @@ Mi objetivo es que cada proyecto no solo se vea profesional, sino que también a
 
 | Proyecto | Descripción | Enlace |
 |---|---|---|
-| **Nubira Web** | Sitio profesional con portafolio, configurador de proyectos, mini CRM interno y demo de sistemas. | [Ver sitio](https://nubiraweb.com/) |
-| **AgendaPro** | Demo funcional de sistema de reservas con panel administrativo, disponibilidad, estados y correos automáticos. | [Ver demo](https://nubiraweb.com/agendapro.php) |
-| **Panel AgendaPro** | Vista demo de panel administrativo para gestión de reservas. | [Ver panel](https://nubiraweb.com/agendapro-demo-panel.php) |
-| **Artesanal Soap** | Caso real de sitio comercial con catálogo, detalle de producto y flujo de cotización. | [Ver caso](https://nubiraweb.com/proyecto-artesanal-soap.php) |
-| **Stack avanzado** | Sección técnica con React, Node.js, APIs, PHP, MySQL y dashboards. | [Ver stack](https://nubiraweb.com/stack-avanzado.php) |
+| **Nubira Web** | Sitio profesional con portafolio, configurador de proyectos, mini CRM interno y demo de sistemas. | <a href="https://nubiraweb.com/"><img src="https://img.shields.io/badge/Ver%20sitio-6366F1?style=for-the-badge" alt="Ver sitio"></a> |
+| **AgendaPro** | Demo funcional de sistema de reservas con panel administrativo, disponibilidad, estados y correos automáticos. | <a href="https://nubiraweb.com/agendapro.php"><img src="https://img.shields.io/badge/Ver%20demo-22C55E?style=for-the-badge" alt="Ver demo"></a> |
+| **Panel AgendaPro** | Vista demo de panel administrativo para gestión de reservas. | <a href="https://nubiraweb.com/agendapro-demo-panel.php"><img src="https://img.shields.io/badge/Ver%20panel-0EA5E9?style=for-the-badge" alt="Ver panel"></a> |
+| **Artesanal Soap** | Caso real de sitio comercial con catálogo, detalle de producto y flujo de cotización. | <a href="https://nubiraweb.com/proyecto-artesanal-soap.php"><img src="https://img.shields.io/badge/Ver%20caso-F59E0B?style=for-the-badge" alt="Ver caso"></a> |
+| **Stack avanzado** | Sección técnica con React, Node.js, APIs, PHP, MySQL y dashboards. | <a href="https://nubiraweb.com/stack-avanzado.php"><img src="https://img.shields.io/badge/Ver%20stack-14B8A6?style=for-the-badge" alt="Ver stack"></a> |
 
 ---
 
